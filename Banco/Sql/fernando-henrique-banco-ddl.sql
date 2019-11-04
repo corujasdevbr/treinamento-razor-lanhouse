@@ -45,3 +45,6 @@ Create Table Usuarios (
 	Senha varchar(50) not null,
 	Primary Key(Id)
 )
+
+
+select * from usuarios
